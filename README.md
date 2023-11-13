@@ -4,6 +4,28 @@ Desinfectar Windows de virus como profesional es un proceso que implica la elimi
 
 ![imagen](foto.jpg)
 
+# Índice
+
+1. [Razones por las que es Importante Analizar Windows](#razones-por-las-que-es-importante-analizar-windows)
+2. [Signos Comunes de Infección en su Computadora](#signos-comunes-de-infección-en-su-computadora)
+3. [Herramientas para Analizar y Desinfectar](#herramientas-para-analizar-y-desinfectar)
+   - [Analizar Procesos con Process Explorer](#analizar-procesos-con-process-explorer)
+   - [Analizar el Sistema con Kaspersky Rescue Disk](#analizar-el-sistema-con-kaspersky-rescue-disk)
+   - [Analizar con Malwarebytes](#analizar-con-malwarebytes)
+   - [Analizar con Malwarebytes ADWCleaner](#analizar-con-malwarebytes-adwcleaner)
+   - [Analizar con RKill](#analizar-con-rkill)
+   - [Analizar desde Protección Antivirus y Contra Amenazas](#analizar-desde-protección-antivirus-y-contra-amenazas)
+   - [Restaurar la Imagen de Windows ante Cambios Inesperados](#restaurar-la-imagen-de-windows-ante-cambios-inesperados)
+   - [Mejores Configuraciones para Windows Defender](#mejores-configuraciones-para-windows-defender)
+4. [Desinfectar con Tron Script](#desinfectar-con-tron-script)
+   - [¿Qué es Tron Script?](#qué-es-tron-script)
+   - [Etapas de Tron Script](#etapas-de-tron-script)
+   - [Cómo Usar Tron Script](#cómo-usar-tron-script)
+5. [Otros Consejos de Seguridad](#otros-consejos-de-seguridad)
+6. [Atención](#atención)
+7. [Licencia](#licencia)
+8. [Nota Importante](#nota-importante)
+
 ## Razones por las que es Importante Analizar Windows
 
 1. **Proteger datos y privacidad:** Los virus pueden robar datos personales como contraseñas, números de tarjetas de crédito y direcciones de correo electrónico, además de instalar malware que rastrea su actividad en línea.
