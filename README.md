@@ -215,7 +215,9 @@ Puedes obtener el script y obtener más información [aquí](https://www.reddit.
 2. Ejecuta el script siguiendo las instrucciones proporcionadas en la documentación.
 3. Sigue las ocho etapas para desinfectar y optimizar tu sistema.
 
-### Mensaje de Seguridad:
+---
+
+## Otros consejos de Seguridad:
 
 Para fortalecer la seguridad de tu red, se recomienda tomar medidas adicionales además de las configuraciones individuales en tus dispositivos. Considera las siguientes acciones como parte de una estrategia integral de seguridad:
 
