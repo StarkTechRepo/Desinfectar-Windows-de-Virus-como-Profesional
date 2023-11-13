@@ -138,6 +138,8 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 
 [RKill](https://www.bleepingcomputer.com/download/rkill/): Termina procesos maliciosos en un sistema operativo.
 
+RKill es una herramienta diseñada para terminar procesos maliciosos en un sistema operativo. Puedes descargar RKill desde [su sitio oficial](https://www.bleepingcomputer.com/download/rkill/). Esta herramienta es útil para detener procesos que podrían ser parte de malware y preparar el terreno para análisis y desinfección adicionales en el sistema.
+
 ---
 
 ## Analizar desde Protección Antivirus y Contra Amenazas
