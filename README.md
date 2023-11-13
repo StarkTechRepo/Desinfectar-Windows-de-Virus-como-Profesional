@@ -139,8 +139,7 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 ## Analizar desde Protección Antivirus y Contra Amenazas
 
 1. Desconectar internet.
-`netsh interface set interface "Conexión de área local" disabled`
-`netsh interface set interface "Wi-Fi" disabled`
+`netsh interface set interface "Conexión de área local" disabled` o `netsh interface set interface "Wi-Fi" disabled`
 2. Ir a "Antivirus y Proteccion Antivirus y Contra Amenazas"  > "opciones de examen".
 3. Seleccionar análisis de Windows Defender sin conexión.
 4. Iniciar el análisis (se reiniciará automáticamente).
