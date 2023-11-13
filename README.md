@@ -162,19 +162,19 @@ Ejecutar el siguiente comando en la línea de comandos:
 
 - **Activar Todo:** Ve a "Seguridad de WindowsAntivirus y Contra Amenazas > "Configuración de Antivirus y Contra Amenazas" y activa todas las opciones disponibles.
 
-## Configuración de Notificaciones
+### Configuración de Notificaciones
 
 - **Activar Todo:** En "Seguridad de Windows" > "Configuración de Antivirus y Contra Amenazas" > "Cambiar Configuración de Notificaciones," activa todas las opciones disponibles.
 
-## Protección contra Ransomware
+### Protección contra Ransomware
 
 - **Activar:** En "Seguridad de Windows" > "Protección Antivirus y Contra Amenazas" > "Protección contra Ransomware," activa la protección (configura la configuración de carpetas protegidas según tus necesidades).
 
-## Opciones de Examen
+### Opciones de Examen
 
 - **Activar Examen Completo:** En "Seguridad de Windows" > "Protección Antivirus y Contra Amenazas" > "Opciones de Examen," activa la opción de "Examen Completo."
 
-## Configuración de Protección contra Vulnerabilidades
+### Configuración de Protección contra Vulnerabilidades
 
 **Seguridad de Windows:**
 - **Configuración de Protección contra Vulnerabilidades:**
@@ -189,13 +189,13 @@ Ejecutar el siguiente comando en la línea de comandos:
 
 ---
 
-# Desinfectar con Tron Script 
+## Desinfectar con Tron Script 
 
-## ¿Qué es Tron Script?
+### ¿Qué es Tron Script?
 
 Tron Script es un script gratuito y de código abierto diseñado para eliminar malware de computadoras con Windows. Es un script complejo que utiliza una variedad de herramientas y técnicas para eliminar incluso el malware más persistente.
 
-## Etapas de Tron Script
+### Etapas de Tron Script
 
 Tron Script se divide en ocho etapas, cada una de las cuales se centra en una tarea específica:
 
@@ -207,7 +207,7 @@ Tron Script se divide en ocho etapas, cada una de las cuales se centra en una ta
 6. **Registros:** Genera registros del proceso de limpieza.
 7. **Fin:** Finaliza el proceso de limpieza.
 
-## Cómo Usar Tron Script
+### Cómo Usar Tron Script
 
 Puedes obtener el script y obtener más información [aquí](https://www.reddit.com/r/TronScript/comments/17a8389/tron_v1206_20231017_add_automated_adwcleaner/).
 
