@@ -90,9 +90,9 @@ La versión gratuita de Malwarebytes ofrece una prueba de 14 días de su versió
 3. **Inicio de la Prueba:**
    - Inicia Malwarebytes y regístrate para una nueva cuenta gratuita.
 
-Al realizar estos pasos, podrás disfrutar de otra prueba de 14 días de la versión premium de Malwarebytes. Es importante destacar que manipular el sistema para extender períodos de prueba puede infringir los términos de servicio del software, por lo que se recomienda respetar las políticas de uso del desarrollador.
+- Al realizar estos pasos, podrás disfrutar de otra prueba de 14 días de la versión premium de Malwarebytes. Es importante destacar que manipular el sistema para extender períodos de prueba puede infringir los términos de servicio del software, por lo que se recomienda respetar las políticas de uso del desarrollador.
 
-Malwarebytes suele ofrecer una versión de prueba de 14 días de su producto premium. Si deseas restablecer el período de prueba, puedes seguir estos pasos:
+- Malwarebytes suele ofrecer una versión de prueba de 14 días de su producto premium. Si deseas restablecer el período de prueba, puedes seguir estos pasos:
 
 1. **Desinstalación Completa:**
    - Desinstala Malwarebytes desde el Panel de Control de Windows.
