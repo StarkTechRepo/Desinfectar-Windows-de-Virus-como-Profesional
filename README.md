@@ -147,10 +147,13 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 
 ---
 
-#### Restaurar la Imagen de Windows ante Cambios Inesperados
+## Restaurar la Imagen de Windows ante Cambios Inesperados
 
 Ejecutar el siguiente comando en la línea de comandos:
+
 `DISM /Online /Cleanup-Image /RestoreHealth`
+
+Este comando utiliza la herramienta Deployment Image Service and Management Tool (DISM) para restaurar la imagen de Windows, lo cual puede ser útil ante cambios inesperados o problemas en el sistema.
 
 ---
 
