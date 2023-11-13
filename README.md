@@ -243,7 +243,9 @@ Para fortalecer la seguridad de tu red, se recomienda tomar medidas adicionales 
 
 Estos pasos ofrecen configuraciones básicas para mejorar la seguridad en Windows. No obstante, es importante tener en cuenta que la afirmación de ser invulnerable contra virus o hacking al 100% es falsa. No existe una protección absoluta en seguridad informática.
 
-Recuerda que la mejor seguridad proviene de la conciencia y la adopción de prácticas seguras en línea. A pesar de implementar diversas medidas de seguridad, no se puede garantizar una protección total en el ámbito de la seguridad informática. Mantente alerta, actualizado sobre las amenazas cibernéticas y realiza copias de seguridad periódicas para minimizar los riesgos.
+Recuerda que la mejor seguridad proviene de la conciencia y la adopción de prácticas seguras en línea. A pesar de implementar diversas medidas de seguridad, no se puede garantizar una protección total en el ámbito de la seguridad informática. 
+
+Mantente alerta, actualizado sobre las amenazas cibernéticas y realiza copias de seguridad periódicas para minimizar los riesgos.
 
 La seguridad en línea es un esfuerzo continuo y dinámico que requiere tanto la aplicación de medidas de seguridad como la participación activa del usuario en la protección de su sistema y datos.
 
