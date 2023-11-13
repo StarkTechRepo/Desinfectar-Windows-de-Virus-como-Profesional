@@ -1,5 +1,9 @@
 # Desinfectar Windows de Virus como Profesional
 
+![imagen](foto.jpg)
+
+---
+
 ## Razones por las que es Importante Analizar Windows
 
 1. **Proteger datos y privacidad:** Los virus pueden robar datos personales como contraseñas, números de tarjetas de crédito y direcciones de correo electrónico, además de instalar malware que rastrea su actividad en línea.
