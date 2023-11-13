@@ -162,6 +162,22 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 
 RKill es una herramienta diseñada para terminar procesos maliciosos en un sistema operativo. Puedes descargar RKill desde [su sitio oficial](https://www.bleepingcomputer.com/download/rkill/). Esta herramienta es útil para detener procesos que podrían ser parte de malware y preparar el terreno para análisis y desinfección adicionales en el sistema.
 
+**Cómo Usar RKill:**
+
+1. **Descarga RKill:**
+   - Visita [el sitio oficial de descarga de RKill](https://www.bleepingcomputer.com/download/rkill/) y descarga la herramienta.
+
+2. **Ejecución de RKill:**
+   - Una vez descargado, ejecuta el archivo RKill para iniciar la herramienta.
+
+3. **Espera a que Finalice:**
+   - RKill realizará un escaneo en busca de procesos maliciosos y los terminará. Espera a que el proceso finalice.
+
+4. **Realiza Análisis Adicional:**
+   - Después de ejecutar RKill, es recomendable realizar análisis adicionales con herramientas antivirus y antimalware para asegurar una limpieza completa.
+
+Recuerda que RKill no elimina malware por sí mismo, pero ayuda a detener procesos maliciosos para facilitar la desinfección con otras herramientas.
+
 ---
 
 ## Analizar desde Protección Antivirus y Contra Amenazas
