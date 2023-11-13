@@ -43,7 +43,7 @@ Esta integración proporciona una capa adicional de seguridad al analizar los pr
 
 ---
 
-### Analizar el Sistema con Kaspersky Rescue Disk
+## Analizar el Sistema con Kaspersky Rescue Disk
 
 [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk) es una herramienta de escaneo y desinfección de Kaspersky que permite analizar y eliminar amenazas de malware en sistemas Windows. Se utiliza cuando el sistema operativo principal está comprometido y no se puede limpiar de manera efectiva mientras está en funcionamiento.
 
@@ -69,7 +69,7 @@ Esta integración proporciona una capa adicional de seguridad al analizar los pr
 
 ---
 
-### Analizar con Malwarebytes
+## Analizar con Malwarebytes
 
 [Malwarebytes](https://es.malwarebytes.com/) es una destacada herramienta antivirus y antimalware que brinda una protección robusta contra diversas amenazas en línea, como malware, ransomware y spyware. Ofrece funciones de escaneo rápido y profundo para detectar y eliminar amenazas, así como una protección en tiempo real para prevenir infecciones.
 
@@ -113,7 +113,7 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 
 ---
 
-### Analizar con Malwarebytes ADWCleaner
+## Analizar con Malwarebytes ADWCleaner
 
 [Malwarebytes ADWCleaner](https://es.malwarebytes.com/adwcleaner/) es una herramienta especializada diseñada para detectar y eliminar adware, programas potencialmente no deseados (PUP), barras de herramientas y otros elementos indeseados en tu sistema. Este programa se centra en limpiar y restaurar la estabilidad de tu sistema eliminando componentes no deseados que pueden afectar el rendimiento y la seguridad.
 
@@ -130,13 +130,13 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 
 ---
 
-### Analizar con RKill
+## Analizar con RKill
 
 [RKill](https://www.bleepingcomputer.com/download/rkill/): Termina procesos maliciosos en un sistema operativo.
 
 ---
 
-### Analizar desde Protección Antivirus y Contra Amenazas
+## Analizar desde Protección Antivirus y Contra Amenazas
 
 1. Desconectar internet.
 `netsh interface set interface "Conexión de área local" disabled`
@@ -148,7 +148,7 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 
 ---
 
-### Restaurar la Imagen de Windows ante Cambios Inesperados
+## Restaurar la Imagen de Windows ante Cambios Inesperados
 
 Ejecutar el siguiente comando en la línea de comandos:
 `DISM /Online /Cleanup-Image /RestoreHealth`
