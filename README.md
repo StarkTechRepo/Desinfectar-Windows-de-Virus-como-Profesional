@@ -153,7 +153,9 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 Ejecutar el siguiente comando en la línea de comandos:
 `DISM /Online /Cleanup-Image /RestoreHealth`
 
-# Mejores Configuraciones para Windows Defender
+---
+
+## Mejores Configuraciones para Windows Defender
 `ms-settings:windowsdefender`
 
 ---
