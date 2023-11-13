@@ -147,7 +147,7 @@ Estos pasos pueden permitirte restablecer el período de prueba de Malwarebytes.
 
 ---
 
-## Restaurar la Imagen de Windows ante Cambios Inesperados
+#### Restaurar la Imagen de Windows ante Cambios Inesperados
 
 Ejecutar el siguiente comando en la línea de comandos:
 `DISM /Online /Cleanup-Image /RestoreHealth`
@@ -157,25 +157,23 @@ Ejecutar el siguiente comando en la línea de comandos:
 ## Mejores Configuraciones para Windows Defender
 `ms-settings:windowsdefender`
 
----
-
-## Configuración de Antivirus y Contra Amenazas
+### Configuración de Antivirus y Contra Amenazas
 
 - **Activar Todo:** Ve a "Seguridad de WindowsAntivirus y Contra Amenazas > "Configuración de Antivirus y Contra Amenazas" y activa todas las opciones disponibles.
 
-### Configuración de Notificaciones
+##### Configuración de Notificaciones
 
 - **Activar Todo:** En "Seguridad de Windows" > "Configuración de Antivirus y Contra Amenazas" > "Cambiar Configuración de Notificaciones," activa todas las opciones disponibles.
 
-### Protección contra Ransomware
+##### Protección contra Ransomware
 
 - **Activar:** En "Seguridad de Windows" > "Protección Antivirus y Contra Amenazas" > "Protección contra Ransomware," activa la protección (configura la configuración de carpetas protegidas según tus necesidades).
 
-### Opciones de Examen
+##### Opciones de Examen
 
 - **Activar Examen Completo:** En "Seguridad de Windows" > "Protección Antivirus y Contra Amenazas" > "Opciones de Examen," activa la opción de "Examen Completo."
 
-### Configuración de Protección contra Vulnerabilidades
+##### Configuración de Protección contra Vulnerabilidades
 
 **Seguridad de Windows:**
 - **Configuración de Protección contra Vulnerabilidades:**
