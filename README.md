@@ -1,5 +1,7 @@
 # Desinfectar Windows de Virus como Profesional
 
+Desinfectar Windows de virus como profesional es un proceso que implica la eliminación de malware de un sistema operativo Windows. El malware puede ser una variedad de programas, como virus, troyanos, adware, spyware y ransomware.
+
 ![imagen](foto.jpg)
 
 ---
