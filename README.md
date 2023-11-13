@@ -182,7 +182,7 @@ Este comando utiliza la herramienta Deployment Image Service and Management Tool
 
 - **Activar Examen Completo:** En "Seguridad de Windows" > "Protección Antivirus y Contra Amenazas" > "Opciones de Examen," activa la opción de "Examen Completo."
 
-##### Configuración de Protección contra Vulnerabilidades
+### Configuración de Protección contra Vulnerabilidades
 
 **Seguridad de Windows:**
 - **Configuración de Protección contra Vulnerabilidades:**
