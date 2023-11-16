@@ -22,9 +22,10 @@ Desinfectar Windows de virus como profesional es un proceso que implica la elimi
    - [Etapas de Tron Script](#etapas-de-tron-script)
    - [Cómo Usar Tron Script](#cómo-usar-tron-script)
 5. [Otros Consejos de Seguridad](#otros-consejos-de-seguridad)
-6. [Atención](#atención)
-7. [Licencia](#licencia)
-8. [Nota Importante](#nota-importante)
+6. [Comparación de Opciones de Antivirus]()
+7. [Atención](#atención)
+8. [Licencia](#licencia)
+9. [Nota Importante](#nota-importante)
 
 ## Razones por las que es Importante Analizar Windows
 
@@ -276,6 +277,43 @@ Para fortalecer la seguridad de tu red, se recomienda tomar medidas adicionales 
 
 3. **Mantenimiento de Actualizaciones:**
    - Asegúrate de que tanto el firmware de tu router como los dispositivos conectados estén actualizados regularmente. Las actualizaciones a menudo incluyen parches de seguridad importantes que protegen contra vulnerabilidades conocidas.
+
+---
+
+## Comparación de Opciones de Antivirus
+
+### Kaspersky
+- **Tipo:** Premium
+- **Funciones:** Protección en tiempo real, prevención de intrusiones, control parental, seguridad web.
+- **Base de datos:** Amplia base de datos de malware para una detección efectiva y bloqueo de amenazas.
+
+### Malwarebytes
+- **Tipo:** Asequible
+- **Funciones:** Protección sólida contra malware con menos funciones en comparación con Kaspersky.
+- **Efectividad:** Muy eficaz para eliminar malware que otros antivirus pueden pasar por alto.
+
+### Avast
+- **Tipo:** Gratuito
+- **Funciones:** Protección básica contra malware.
+- **Recomendación:**
+  - Para Máxima Protección: Kaspersky
+  - Para Asequibilidad: Malwarebytes
+  - Para Protección Gratuita: Avast
+
+### Razones por las que Algunos Prefieren Avast sobre Otros
+1. **Gratis:** Avast es una opción atractiva para usuarios que buscan proteger sus dispositivos sin gastar dinero.
+2. **Efectivo:** Avast ha recibido buenas calificaciones en protección contra malware por parte de organizaciones independientes.
+3. **Fácil de Usar:** Avast tiene una interfaz sencilla y fácil de navegar, haciéndolo accesible incluso para usuarios no técnicos.
+
+Sin embargo, es importante tener en cuenta que Avast carece de algunas funciones premium que se encuentran en otras soluciones antivirus, como Kaspersky o Malwarebytes (por ejemplo, prevención de intrusiones, control parental, seguridad web).
+
+### Recopilación de Datos por Avast
+Avast, al igual que muchos programas antivirus, recopila información del usuario para mejorar sus productos y servicios. Esto puede incluir:
+- **Datos de Navegación Web:** Sitios visitados, búsquedas y clics en anuncios.
+- **Datos de Uso de Aplicaciones:** Aplicaciones utilizadas, tiempo invertido y datos generados.
+- **Datos del Dispositivo:** Tipo de dispositivo, sistema operativo y configuración.
+
+Avast afirma anonimizar esta información y no utilizarla para identificación personal. Sin embargo, algunos expertos en privacidad han expresado preocupaciones sobre la cantidad de datos recopilados y su uso.
 
 ---
 
