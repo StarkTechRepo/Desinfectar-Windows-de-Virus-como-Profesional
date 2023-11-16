@@ -295,11 +295,12 @@ Para fortalecer la seguridad de tu red, se recomienda tomar medidas adicionales 
 ### Avast
 - **Tipo:** Gratuito
 - **Funciones:** Protección básica contra malware.
-- **Recomendación:**
+- 
+### Recomendación:
   - Para Máxima Protección: Kaspersky
   - Para Asequibilidad: Malwarebytes
   - Para Protección Gratuita: Avast
-
+  - 
 ### Razones por las que Algunos Prefieren Avast sobre Otros
 1. **Gratis:** Avast es una opción atractiva para usuarios que buscan proteger sus dispositivos sin gastar dinero.
 2. **Efectivo:** Avast ha recibido buenas calificaciones en protección contra malware por parte de organizaciones independientes.
