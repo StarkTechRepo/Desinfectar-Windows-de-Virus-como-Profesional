@@ -22,7 +22,7 @@ Desinfectar Windows de virus como profesional es un proceso que implica la elimi
    - [Etapas de Tron Script](#etapas-de-tron-script)
    - [Cómo Usar Tron Script](#cómo-usar-tron-script)
 5. [Otros Consejos de Seguridad](#otros-consejos-de-seguridad)
-6. [Comparación de Opciones de Antivirus]()
+6. [Comparación de Opciones de Antivirus](#comparación-de-opciones-de-antivirus)
 7. [Atención](#atención)
 8. [Licencia](#licencia)
 9. [Nota Importante](#nota-importante)
