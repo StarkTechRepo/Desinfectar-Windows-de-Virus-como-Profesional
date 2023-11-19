@@ -184,12 +184,22 @@ Recuerda que RKill no elimina malware por sí mismo, pero ayuda a detener proces
 ## Analizar desde Protección Antivirus y Contra Amenazas
 
 1. Desconectar internet.
-`netsh interface set interface "Conexión de área local" disabled` o `netsh interface set interface "Wi-Fi" disabled`
-2. Ir a "Antivirus y Proteccion Antivirus y Contra Amenazas"  > "opciones de examen".
-3. Seleccionar análisis de Windows Defender sin conexión.
-4. Iniciar el análisis (se reiniciará automáticamente).
 ```
-ms-settings:windowsdefender
+# Desactivar la interfaz Ethernet (Conexión de área local)
+netsh interface set interface "Conexión de área local" disabled
+
+# Desactivar la interfaz Wi-Fi
+netsh interface set interface "Wi-Fi" disabled
+
+# Desactivar la interfaz Ethernet 
+netsh interface set interface "Ethernet" disabled
+```
+3. Ir a "Antivirus y Proteccion Antivirus y Contra Amenazas"  > "opciones de examen".
+4. Seleccionar análisis de Windows Defender sin conexión.
+5. Iniciar el análisis (se reiniciará automáticamente).
+```
+   # Abrir Windows Defender
+   ms-settings:windowsdefender
 ```
 
 ---
