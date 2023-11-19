@@ -193,6 +193,9 @@ netsh interface set interface "Wi-Fi" disabled
 
 # Desactivar la interfaz Ethernet 
 netsh interface set interface "Ethernet" disabled
+
+# Abrir la configuración del adaptador de red en Windows
+ncpa.cpl
 ```
 3. Ir a "Antivirus y Proteccion Antivirus y Contra Amenazas"  > "opciones de examen".
 4. Seleccionar análisis de Windows Defender sin conexión.
