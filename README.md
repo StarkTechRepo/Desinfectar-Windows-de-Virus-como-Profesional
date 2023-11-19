@@ -121,7 +121,7 @@ La versión gratuita de Malwarebytes ofrece una prueba de 14 días de su versió
    - Desinstala Malwarebytes desde el Panel de Control de Windows.
 
 2. **Eliminar Restos:**
-   - Utiliza una herramienta de desinstalación de terceros o busca y elimina manualmente cualquier resto de Malwarebytes en tu sistema.
+   - Utiliza una herramienta de desinstalación de terceros o busca y elimina manualmente cualquier resto de Malwares en tu sistema.
 
 3. **Cambiar Dirección IP:**
    - Reinicia tu router para obtener una nueva dirección IP si tu proveedor de servicios de Internet asigna direcciones basadas en DHCP.
