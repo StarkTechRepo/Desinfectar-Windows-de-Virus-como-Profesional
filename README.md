@@ -234,6 +234,10 @@ Este comando utiliza la herramienta Deployment Image Service and Management Tool
 - **Aislamiento del Núcleo:**
   - Activar (solo si el procesador es compatible con esta opción).
 
+```
+   # Abrir Windows Defender
+   ms-settings:windowsdefender
+```
 ---
 
 ## Desinfectar con Tron Script 
