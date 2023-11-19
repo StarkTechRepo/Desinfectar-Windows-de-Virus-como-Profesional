@@ -188,7 +188,9 @@ Recuerda que RKill no elimina malware por sí mismo, pero ayuda a detener proces
 2. Ir a "Antivirus y Proteccion Antivirus y Contra Amenazas"  > "opciones de examen".
 3. Seleccionar análisis de Windows Defender sin conexión.
 4. Iniciar el análisis (se reiniciará automáticamente).
-`ms-settings:windowsdefender`
+```
+ms-settings:windowsdefender
+```
 
 ---
 
@@ -196,15 +198,19 @@ Recuerda que RKill no elimina malware por sí mismo, pero ayuda a detener proces
 
 Ejecutar el siguiente comando en la línea de comandos:
 
-`DISM /Online /Cleanup-Image /RestoreHealth`
+```
+DISM /Online /Cleanup-Image /RestoreHealth
+```
 
 Este comando utiliza la herramienta Deployment Image Service and Management Tool (DISM) para restaurar la imagen de Windows, lo cual puede ser útil ante cambios inesperados o problemas en el sistema.
 
 ---
 
 ## Mejores Configuraciones para Windows Defender
-`ms-settings:windowsdefender`
-
+```
+   # Abrir Windows Defender
+   ms-settings:windowsdefender
+```
 ### Configuración de Antivirus y Contra Amenazas
 
 - **Activar Todo:** Ve a "Seguridad de WindowsAntivirus y Contra Amenazas > "Configuración de Antivirus y Contra Amenazas" y activa todas las opciones disponibles.
@@ -234,10 +240,6 @@ Este comando utiliza la herramienta Deployment Image Service and Management Tool
 - **Aislamiento del Núcleo:**
   - Activar (solo si el procesador es compatible con esta opción).
 
-```
-   # Abrir Windows Defender
-   ms-settings:windowsdefender
-```
 ---
 
 ## Desinfectar con Tron Script 
