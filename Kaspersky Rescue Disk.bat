@@ -4,4 +4,4 @@ color 30
 title https://github.com/StarkTechRepo
 
 echo Descargando Kaspersky Rescue Disk...
-start "" https://www.kaspersky.es/downloads/free-rescue-disk
+powershell -Command "Invoke-WebRequest -Uri 'https://rescuedisk.s.kaspersky-labs.com/latest/krd.iso' -OutFile 'krd.iso'"
