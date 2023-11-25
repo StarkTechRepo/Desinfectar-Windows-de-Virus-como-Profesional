@@ -184,24 +184,22 @@ Recuerda que RKill no elimina malware por sí mismo, pero ayuda a detener proces
 
 ## Análisis del Sistema con Herramienta MRT
 
-Si deseas realizar un análisis del sistema en busca de posibles amenazas, puedes utilizar la herramienta MRT (Microsoft Removal Tool). Sigue estos pasos:
+Si deseas realizar un análisis del sistema en busca de posibles amenazas utilizando la herramienta MRT (Microsoft Removal Tool), sigue estos pasos:
 
-1. **Descargar MRT:**
-   - [Descargar MRT](https://support.microsoft.com/en-us/help/890830/remove-specific-prevalent-malware-with-windows-malicious-software-remo)
+1. **Ejecutar MRT:**
+   - Presiona `Win + R` para abrir el cuadro de diálogo Ejecutar.
+   - Escribe `mrt` y presiona Enter.
 
-2. **Ejecutar MRT:**
-   - Ejecuta la herramienta descargada.
-
-3. **Acepta Términos y Condiciones:**
+2. **Aceptar Términos y Condiciones:**
    - Lee y acepta los términos y condiciones proporcionados por Microsoft.
 
-4. **Seleccionar Tipo de Escaneo:**
+3. **Seleccionar Tipo de Escaneo:**
    - Elige el tipo de escaneo que deseas realizar. Puedes optar por un escaneo rápido o completo.
 
-5. **Iniciar Escaneo:**
+4. **Iniciar Escaneo:**
    - Inicia el escaneo del sistema. La herramienta buscará y eliminará malware conocido.
 
-6. **Revisar Resultados:**
+5. **Revisar Resultados:**
    - Al finalizar el escaneo, revisa los resultados para ver si se encontraron amenazas. Sigue las instrucciones proporcionadas por la herramienta para tomar acciones, si es necesario.
 
 Recuerda que MRT es una herramienta de Microsoft diseñada para abordar amenazas específicas. Para una protección más completa, se recomienda utilizar un software antivirus y antimalware actualizado.
