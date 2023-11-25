@@ -14,7 +14,7 @@ Desinfectar Windows de virus como profesional es un proceso que implica la elimi
    - [Analizar con Malwarebytes](#analizar-con-malwarebytes)
    - [Analizar con Malwarebytes ADWCleaner](#analizar-con-malwarebytes-adwcleaner)
    - [Analizar con RKill](#analizar-con-rkill)
-   - [Análisis del Sistema con Herramienta MRT]()
+   - [Análisis del Sistema con Herramienta MRT](#análisis-del-sistema-con-herramienta-mrt)
    - [Analizar desde Protección Antivirus y Contra Amenazas](#analizar-desde-protección-antivirus-y-contra-amenazas)
    - [Restaurar la Imagen de Windows ante Cambios Inesperados](#restaurar-la-imagen-de-windows-ante-cambios-inesperados)
    - [Mejores Configuraciones para Windows Defender](#mejores-configuraciones-para-windows-defender)
