@@ -14,6 +14,7 @@ Desinfectar Windows de virus como profesional es un proceso que implica la elimi
    - [Analizar con Malwarebytes](#analizar-con-malwarebytes)
    - [Analizar con Malwarebytes ADWCleaner](#analizar-con-malwarebytes-adwcleaner)
    - [Analizar con RKill](#analizar-con-rkill)
+   - [Análisis del Sistema con Herramienta MRT]()
    - [Analizar desde Protección Antivirus y Contra Amenazas](#analizar-desde-protección-antivirus-y-contra-amenazas)
    - [Restaurar la Imagen de Windows ante Cambios Inesperados](#restaurar-la-imagen-de-windows-ante-cambios-inesperados)
    - [Mejores Configuraciones para Windows Defender](#mejores-configuraciones-para-windows-defender)
@@ -178,6 +179,32 @@ RKill es una herramienta diseñada para terminar procesos maliciosos en un siste
    - Después de ejecutar RKill, es recomendable realizar análisis adicionales con herramientas antivirus y antimalware para asegurar una limpieza completa.
 
 Recuerda que RKill no elimina malware por sí mismo, pero ayuda a detener procesos maliciosos para facilitar la desinfección con otras herramientas.
+
+---
+
+## Análisis del Sistema con Herramienta MRT
+
+Si deseas realizar un análisis del sistema en busca de posibles amenazas, puedes utilizar la herramienta MRT (Microsoft Removal Tool). Sigue estos pasos:
+
+1. **Descargar MRT:**
+   - [Descargar MRT](https://support.microsoft.com/en-us/help/890830/remove-specific-prevalent-malware-with-windows-malicious-software-remo)
+
+2. **Ejecutar MRT:**
+   - Ejecuta la herramienta descargada.
+
+3. **Acepta Términos y Condiciones:**
+   - Lee y acepta los términos y condiciones proporcionados por Microsoft.
+
+4. **Seleccionar Tipo de Escaneo:**
+   - Elige el tipo de escaneo que deseas realizar. Puedes optar por un escaneo rápido o completo.
+
+5. **Iniciar Escaneo:**
+   - Inicia el escaneo del sistema. La herramienta buscará y eliminará malware conocido.
+
+6. **Revisar Resultados:**
+   - Al finalizar el escaneo, revisa los resultados para ver si se encontraron amenazas. Sigue las instrucciones proporcionadas por la herramienta para tomar acciones, si es necesario.
+
+Recuerda que MRT es una herramienta de Microsoft diseñada para abordar amenazas específicas. Para una protección más completa, se recomienda utilizar un software antivirus y antimalware actualizado.
 
 ---
 
